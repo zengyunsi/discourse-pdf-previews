@@ -1,7 +1,7 @@
 import { withPluginApi } from "discourse/lib/plugin-api";
 import { iconHTML } from "discourse-common/lib/icon-library";
 
-const PREVIEW_HEIGHT = 500;
+const PREVIEW_HEIGHT = 720;
 
 export default {
   name: "pdf-previews",
